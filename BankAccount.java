@@ -158,7 +158,7 @@ class BankAccount
 	/**
 	 * Constructs a string to represent the BankAccount object's current state.
 	 * 
-	 * @return a string representing the BankAccount
+	 * @return a string representing the BankAccount 
 	 */ 
 	@Override
 	public String toString()
